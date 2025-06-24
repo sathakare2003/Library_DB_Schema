@@ -21,3 +21,7 @@ This project is part of my SQL Developer Internship. It represents a normalized 
 
 ## 🔗 Submission
 Paste your GitHub repository link here after uploading all files.
+
+## 📊 ER Diagram
+
+![ER Diagram](PASTE-THE-URL-HERE)
